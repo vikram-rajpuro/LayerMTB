@@ -16,3 +16,6 @@ clipsToBounds work directly on UIView but at the end it does the same what masks
 In order to understand the difference between both of this we can think of the problem where a view needs a property called shadow and rounded corner both.
 
 now here we can not set a shadow to the view if we need it to be rounded corner and also can not do the vice versa. this is the contradiction. both properties does the same. you can go through the link and see yourself.
+
+
+![alt tag](https://user-images.githubusercontent.com/16700728/39674122-dffd19fa-5164-11e8-8cd3-478697569291.jpg)
